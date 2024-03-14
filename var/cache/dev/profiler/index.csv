@@ -1,0 +1,9 @@
+b37ab7,192.168.65.1,GET,http://localhost:8080/admin230hsgxcn/index.php/modules/metrics/api/getShopData?_token=Ism8xvbAVM_dcDzV4Sq6KarUyt79IslSs-3TIrplAXM,1710424211,,200
+955419,192.168.65.1,GET,http://localhost:8080/admin230hsgxcn/index.php/sell/catalog/products/new?_token=Ism8xvbAVM_dcDzV4Sq6KarUyt79IslSs-3TIrplAXM,1710424645,,302
+eb15d2,192.168.65.1,GET,http://localhost:8080/admin230hsgxcn/index.php/_fragment?_path=_format%3Dhtml%26_locale%3Dfr-FR%26_controller%3DPrestaShopBundle%253AAdmin%252FCommon%253ArenderField,1710424647,5aabe7,200
+5aabe7,192.168.65.1,GET,http://localhost:8080/admin230hsgxcn/index.php/sell/catalog/products/20?_token=Ism8xvbAVM_dcDzV4Sq6KarUyt79IslSs-3TIrplAXM,1710424647,,200
+64331b,192.168.65.1,GET,http://localhost:8080/admin230hsgxcn/index.php/sell/catalog/products/attributes/form-images/20?_token=Ism8xvbAVM_dcDzV4Sq6KarUyt79IslSs-3TIrplAXM,1710424648,,200
+3d4afd,192.168.65.1,GET,http://localhost:8080/admin230hsgxcn/index.php/sell/catalog/products/attributes/get-all?_token=Ism8xvbAVM_dcDzV4Sq6KarUyt79IslSs-3TIrplAXM,1710424648,,200
+083669,192.168.65.1,GET,http://localhost:8080/admin230hsgxcn/index.php/sell/catalog/products/specific-prices/list/20?_token=Ism8xvbAVM_dcDzV4Sq6KarUyt79IslSs-3TIrplAXM,1710424648,,200
+101c46,192.168.65.1,GET,http://localhost:8080/admin230hsgxcn/index.php/improve/modules/manage?_token=Ism8xvbAVM_dcDzV4Sq6KarUyt79IslSs-3TIrplAXM,1710427854,,200
+0ba555,192.168.65.1,GET,http://localhost:8080/admin230hsgxcn/index.php/improve/modules/alerts/count?_token=Ism8xvbAVM_dcDzV4Sq6KarUyt79IslSs-3TIrplAXM,1710427855,,200
